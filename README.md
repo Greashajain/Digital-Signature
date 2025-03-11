@@ -10,3 +10,8 @@ This project demonstrates how to generate and verify **digital signatures** usin
 - Detect signature tampering or invalid messages.
 - Uses **PyCryptodome** for cryptographic operations.
 
+📜 Example Output
+
+✅ Signature is valid.
+
+❌ Signature is invalid due to tampered message.
